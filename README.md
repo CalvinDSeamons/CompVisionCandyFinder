@@ -11,9 +11,9 @@ Below are the image results once it goes through the program.
 
 ### Larger image of M&M's on tables: 
 <img width="1199" alt="Screen Shot 2019-03-17 at 2 10 05 PM" src="https://user-images.githubusercontent.com/35508425/54497358-614e8500-48bf-11e9-9130-fac5095654ad.png">
-Note that there is an extra circle (top right). This happens on occasion as HOUGH_CIRCLES are not perfect. When we calculate 
+Note that there is an extra circle (top left). This happens on occasion as HOUGH_CIRCLES are not perfect. When we calculate 
 the color however, the false circle falls below the threshold for brown so we do not count it letting us get an accurate count
-M&M's. 
+of M&M's. 
 
 
 
